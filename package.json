@@ -1,0 +1,15 @@
+{
+  "name": "movie-info",
+  "version": "1.0.0",
+  "description": "Movie api calls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanishk Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
